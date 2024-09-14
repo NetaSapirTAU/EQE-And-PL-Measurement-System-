@@ -1,6 +1,4 @@
 clear all
-%cd('C:\Users\neta9\OneDrive - mail.tau.ac.il\4year\project\PL');
-addpath('C:\Users\neta9\OneDrive - mail.tau.ac.il\4year\project\PL');
 
 load("PL_power_sphere.mat");
 load("PL_spect_sphere.mat");
